@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnepali&layout=compact)](https://github.com/sagarnepali/github-readme-stats) -->
   
   <a href="https://github.com/sagarnepali/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarnepali&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnepali&layout=compact" />
 </a>
 <a href="https://github.com/sagarnepali/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarnepali&repo=convoychat" />
